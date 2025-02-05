@@ -31,15 +31,8 @@ Follow these steps to clone the project repository onto your computer:
 
 Click the link below to download the dataset:  
 
-[📥 Download Dataset](https://your-direct-dataset-link.com/dataset.zip)  
+[📥 Download Dataset]((https://universe.roboflow.com/brad-dwyer/aquarium-combined))  
 
 
 
 
-## Downloading the Dataset
-
-You can download the dataset by running the following commands in your terminal:
-
-```bash
-wget -O dataset.zip "<DATASET_LINK>"
-unzip dataset.zip -d dataset
