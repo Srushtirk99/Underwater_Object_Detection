@@ -31,7 +31,7 @@ Follow these steps to clone the project repository onto your computer:
 
 Click the link below to download the dataset:  
 
-[📥 Download Dataset]((https://universe.roboflow.com/brad-dwyer/aquarium-combined))  
+[📥 Download Dataset](https://universe.roboflow.com/brad-dwyer/aquarium-combined)
 
 
 
