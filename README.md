@@ -24,5 +24,4 @@ Follow these steps to clone the project repository onto your computer:
 
 2. **Run the following command:**
    ```bash
-   [git clone https://github.com/Srushtirk99/underwater-object-detection.git](https://github.com/Srushtirk99/Underwater_Object_Detection.git)
-
+   git clone https://github.com/Srushtirk99/underwater-object-detection.git
