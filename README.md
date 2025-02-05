@@ -7,8 +7,6 @@ Welcome to the Underwater Object Detection project! This project uses a custom Y
 - [Introduction](#introduction)
 - [Cloning the Repository](#cloning-the-repository)
 - [Downloading the Dataset](#downloading-the-dataset)
-- [Troubleshooting](#troubleshooting)
-- [Contact](#contact)
 
 ## Introduction
 
