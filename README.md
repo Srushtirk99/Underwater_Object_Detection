@@ -1,61 +1,28 @@
 # Underwater Object Detection using YOLO11 Architecture
 
-A deep learning project to detect objects in underwater images using a custom YOLO11 model.
+Welcome to the Underwater Object Detection project! This project uses a custom YOLO11 model to detect objects in underwater images. This README file will guide you through cloning the repository and downloading the dataset, so you can get started with minimal hassle.
 
-## What is This Project?
+## Table of Contents
 
-This project uses a special version of YOLO to find objects in underwater images. It is simple, fast, and easy to use.
+- [Introduction](#introduction)
+- [Cloning the Repository](#cloning-the-repository)
+- [Downloading the Dataset](#downloading-the-dataset)
+- [Troubleshooting](#troubleshooting)
+- [Contact](#contact)
 
-## Features
+## Introduction
 
-- **Accurate Detection:** Finds objects in underwater images.
-- **Custom YOLO11 Model:** A modified version of YOLO for underwater settings.
-- **User Friendly:** Easy steps to get started.
+Underwater images can be challenging due to low visibility and unusual lighting conditions. Our custom YOLO11 model is designed to detect objects in these images, making it useful for marine research, underwater exploration, and more. This guide will help you set up the project by showing you how to clone the repository and download the necessary dataset.
 
-## How to Set Up
+## Cloning the Repository
 
-1. **Clone the repository:**
+Follow these steps to clone the project repository onto your computer:
+
+1. **Open your Terminal or Command Prompt:**
+   - **Windows:** Use Command Prompt, PowerShell, or Git Bash.
+   - **Mac/Linux:** Open the Terminal application.
+
+2. **Run the following command:**
    ```bash
    git clone https://github.com/yourusername/underwater-object-detection.git
-
-```markdown
-**Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-**Download the pre-trained model:**
-Follow the link in the documentation or instructions in the repo.
-
-**Download the dataset:**
-[Download Dataset](https://example.com/dataset)
-
-**How to Use**
-
-- **Add your images:**  
-  Place your underwater images in the `images` folder.
-  
-- **Run detection:**
-```bash
-python detect.py --input images/your_image.jpg
-```
-
-- **View results:**  
-  Check the `output` folder to see the detected images.
-
-**How to Train**
-
-If you want to train the model with your own images:
-
-- **Prepare your data:**  
-  Organize your images and labels as explained in the documentation.
-  
-- **Run the training script:**
-```bash
-python train.py --data dataset_config.yaml
-```
-
-**Results:**
-See the `results` folder for sample outputs and performance details.
-```
 
