@@ -29,6 +29,15 @@ Follow these steps to clone the project repository onto your computer:
 
 ## Downloading the Dataset
 
+Click the link below to download the dataset:  
+
+[📥 Download Dataset](https://your-direct-dataset-link.com/dataset.zip)  
+
+
+
+
+## Downloading the Dataset
+
 You can download the dataset by running the following commands in your terminal:
 
 ```bash
